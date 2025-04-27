@@ -52,9 +52,8 @@ This blockchain-powered Connect 4 game brings a new level of excitement and secu
 
 
 
+## Presentation (canva link):
 
 
-
-
-
+https://www.canva.com/design/DAGl2OVVl5g/zJqOF_3AVXy6d7_Vbq0NvA/edit?utm_content=DAGl2OVVl5g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
