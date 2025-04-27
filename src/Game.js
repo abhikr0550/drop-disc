@@ -10,7 +10,7 @@ import { FaPlay } from 'react-icons/fa'; // Import play icon from react-icons
 
 let contract = null;
 let selectedAccount = null;
-const ADDRESS = "0x8a9b86bB527195133Df6eB446b7A9Ce79a1bc4D3";
+const ADDRESS = "0xb3beb5fca3ad42a8f6550e9cc75840a40c204dc1";
 
 const loadedData = JSON.stringify(contractjson);
 const abi = JSON.parse(loadedData);

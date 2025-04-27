@@ -15,7 +15,7 @@ function App() {
           <img src="/images/game-icon.png" alt="Game Icon" />
         </div>
       </div>
-      <Game_temp/>
+      <Game/>
       <footer className="App-footer">
         <p>© 2024 Connecting Polka. All rights reserved. Author: Abhishek Kumar</p>
       </footer>
