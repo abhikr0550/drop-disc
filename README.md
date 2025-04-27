@@ -11,33 +11,39 @@ In the project directory, you can run:
 ### `npm start`
 
 
-Overview:
+### Overview:
 Drop Disc is a blockchain-integrated version of the classic two-player strategy game, deployed on the Polkadot Chain. Players connect their crypto wallets to participate, ensuring secure and decentralized gameplay.
 
-Features:
+### Features:
 
-Wallet Integration:
+## Wallet Integration
 
 Players connect their Metamask wallet to join the game.
 Secure transactions and authentication via the Polkadot Chain.
-Game Mechanics:
+
+## Game Mechanics:
 
 Traditional Connect 4 rules: Players take turns dropping discs into columns, aiming to align four discs vertically, horizontally, or diagonally.
 Real-time disc drop animation for enhanced visual experience.
-Blockchain Transactions:
+
+## Blockchain Transactions:
 
 Starting a game requires a transaction, ensuring commitment and engagement.
 Smart contracts manage game logic and transactions.
-Countdown Timer:
+
+## Countdown Timer:
 
 A countdown timer initiates the game, building anticipation.
 Winner Announcement:
 
 The game detects winning conditions and announces the winner.
-Sound Effects:
+
+
+## Sound Effects:
 
 Audio cues for player actions enhance interactivity.
-Technical Details:
+
+## Technical Details:
 
 Frontend: Built with React.js for a dynamic and responsive user interface.
 Smart Contracts: Deployed on Polkadot Chain using Web3.js and a Solidity contract.
