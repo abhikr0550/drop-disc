@@ -69,3 +69,6 @@ https://www.loom.com/share/ab3c37f50c624441b8cb2175ce31339f?sid=16b0684c-6946-46
 ![UI-screenshot 2](<Screenshot 2025-04-27 at 11.59.57.png>)
 ![UI-screenshot 3](<Screenshot 2025-04-27 at 12.00.14.png>)
 ![UI-screenshot 4](<Screenshot 2025-04-27 at 12.00.24.png>)
+
+## Block explorer link:
+https://shibuya.blockscout.com/address/0xb3Beb5fCa3ad42A8F6550e9Cc75840a40C204dC1
